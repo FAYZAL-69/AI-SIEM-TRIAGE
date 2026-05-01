@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Project Generated Files
+*.db
+*.sqlite
+*.sqlite3
+siem_logs.db
+*.log
+siem.log
+
+# Data files (too large, users download separately)
+data/
+*.csv
+
+# Model files
+model.pkl
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temp
+*.tmp
+.cache/
